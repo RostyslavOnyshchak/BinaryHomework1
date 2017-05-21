@@ -2,6 +2,8 @@
 ## Article by Tanner Christensen
 ### Link to article: https://medium.freecodecamp.com/your-best-work-will-be-invisible-a7896c28d3eb
 
+	-- My comments are marked with "--" before the comment :)
+
 # Your Best Work Will Be Invisible
 As a designer, your best work is going to always be invisible. It’ll be invisible because the best part of what you do will be everything that takes place behind the scenes, where nobody will ever see it.
 
@@ -25,6 +27,8 @@ If we look at some of the most famous paintings in history we can see a very rea
 
 Beneath each work of art lies another, often rougher or incomplete work of art, the product the artist slaved away on before smothering it in even more paint, to get the details right. Often we can see not just one, but several paintings buried beneath the final work.
 
+	-- So often we underestimate efforts to achieve some result by other people.
+
 We can see this intentionality in modern design guidelines too. Like Apple’s Human Interface Guidelines or Google’s Material Design. Each design system contains a vast library of design principles and recommendations, some of which are so nuanced it will make any non-designer’s head spin. Just look at Material Design’s color page for an example of the thinking that has gone into color alone; the page is massive and rich with detail.
 
 To put this another way: in anything we do, the gift we give others is investing our own limited time into the work.
@@ -35,3 +39,5 @@ What can often make a product experience so impactful is the work those who crea
 
 To quote the famous entertainer Teller, of Penn and Teller:
 “Sometimes magic is just someone spending more time on something than anyone else might reasonably expect.”
+
+	-- this article is about art but I like it and I think its meaning can be applied to any human activity :).
