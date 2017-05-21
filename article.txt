@@ -2,6 +2,8 @@
 ## Article by Tanner Christensen
 ### Link to article: https://medium.freecodecamp.com/a-better-way-to-compare-yourself-43cf37616570
 
+	-- My comments are marked with "--" before the comment :)
+
 # A Better Way to Compare Yourself
 
 Comparing your work or abilities to someone else’s can be an unproductive and self-destructive activity. Yet we compare ourselves all the time.
@@ -25,14 +27,20 @@ When asked how much she owes him for the work, Picasso replies by saying the pai
 Picasso replied:
 “It took me my whole life to be able to create that work in five minutes.”
 
+	-- I really like this answer. What one man can do in 5 min other one will not be able to do ever ...
+
 ## Be honest with your motivations
 When you don’t know what your motivations are or what you’re trying to accomplish at any point in your career, you’re easier discouraged or hindered by comparisons than not.
 Another way to think of it is: if you’re not running towards something in particular, it’s easier to just not run at all, or to burn out running in the wrong direction. You have to give yourself clear motivations in order to keep moving toward progress. To do that, you have to first know where you are and where you want to be.
+
+	-- If someone do not have clear strategic goals they often change directions they move to. As result these people fuss alot with no significant progress in any particular direction.
 
 When I compare myself against someone I really admire, I use the gap between where I am and where they are as a method of directing my next action; not fearing that I might not be able to do the same caliber of work. What skills might have helped get them there that I am lacking? Is there a specific type of work I should be pursuing? Are there details in the work I can focus on learning to do well myself?
 
 Here’s wisdom from the Dalai Lama on motivation vs. anxiety:
 “Having proper motivation and honesty are the keys to overcoming fear or anxiety. Fearless and honest self-appraisal can be a powerful weapon against self-doubt or low self-confidence.”
+
+	-- Really wise. Nothing to add :)
 
 Identifying a gap—in experience, knowledge, or ability—is important, but only as much as it is a gap between where you are and where you want to be. Everything else is just noise.
 
@@ -48,6 +56,8 @@ To figure out what’s in the gap is as easy as spending a bit of time deeply lo
 In the book Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future author Ashlee Vance explains how Elon Musk uses his overwhelming curiosity to suck knowledge and insights from experts in fields he has little to no knowledge or experience in.
 
 “‘I thought at first that he was challenging me to see if I knew my stuff,’ said Kevin Brogan, one of the early engineers at Space X tells Ashlee. ‘Then I realized he was trying to learn things. He would quiz you until he learned ninety percent of what you know.’”
+
+	-- To be successful - never stop learning ...
 
 By actively pursuing his desire to better understand things he might have little-to-no information into, Elon has been able to go from launching an online payments platform to becoming a leading voice on electric vehicles, space exploration, and rocket science.
 
@@ -71,6 +81,10 @@ Beating yourself up or feeling unmotivated isn’t going to help you get better.
 As Virgin Records/Airlines/Galactic founder Richard Branson puts it:
 “Hard-won things are more valuable than those that come too easily.”
 
+	-- Easy comes - easy goes. What has been easily got is rarely appreciated enough...
+
 None of this is easy, but that’s exactly what makes it so valuable.
 
 When you remember any of the above, comparing yourself to those you admire most becomes an exercise in growth and opportunity, not anxiety or failure.
+
+	-- I completely agree with author about every person has its own way. And everybody has its own background, abilities, talents. So comparing oneselves achievements to achievements of other people can be discouraging and even harmful.
